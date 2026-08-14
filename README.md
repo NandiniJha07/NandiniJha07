@@ -2,7 +2,7 @@
 
 ### `Computer Science Student` • `Aspiring Software Engineer`
 
-I'm a **3rd-semester B.Tech Computer Science Engineering student** who is currently exploring the world of software engineering — one concept, one bug, and one project at a time.
+I'm a **3rd-semester B.Tech Computer Science Engineering student** exploring the world of software engineering — one concept, one bug, and one project at a time.
 
 Right now, I'm focused on strengthening my programming fundamentals, learning how software is built, and slowly turning what I learn into things I can actually build.
 
@@ -30,24 +30,30 @@ I'm at the beginning of my software engineering journey, so I'm more interested 
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</p>
 
 ### Web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</p>
 
-> My stack is still growing — this section will change as I learn more. 🌱
+> 🌱 My stack is still growing — this section will evolve as I learn more.
 
 ---
 
@@ -59,7 +65,7 @@ So far, my coursework has introduced me to:
 * **Data Structures**
 * **C++ fundamentals** *(self-learning alongside my curriculum)*
 
-I'm currently working on turning these concepts from "I understand this" into **"I can actually build with this."**
+I'm currently working on turning these concepts from **"I understand this"** into **"I can actually build with this."**
 
 ---
 
@@ -120,7 +126,7 @@ I'm currently focusing on **getting the fundamentals right** before trying to le
 
 ## 📈 GitHub Journey
 
-This profile is going to be a little different from the typical "look how many technologies I know" profile.
+This profile is going to be a little different from the typical *"look how many technologies I know"* profile.
 
 I'm starting from the beginning — and I'd like this GitHub to **document the progress**.
 
@@ -134,35 +140,20 @@ Tomorrow, hopefully, it'll be something much bigger.
 
 ## 🐍 My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent" height="160"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NandiniJha07&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandiniJha07&hide_border=true&theme=transparent" height="160" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🌐 Let's Connect
 
-<p align="left">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+<p align="left">   <a href="https://github.com/NandiniJha07">     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>   </a>   <a href="https://linkedin.com/in/nandini-jha">     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>   </a</p>
 
 ---
 
@@ -179,4 +170,3 @@ I'm just getting started — and that's okay.
 <p align="center">
   <i>Thanks for stopping by! 🌱</i>
 </p>
-
