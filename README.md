@@ -140,7 +140,7 @@ Tomorrow, hopefully, it'll be something much bigger.
 
 ## 🐍 My Contributions
 
----
+<p align="center"> <img src="https://raw.githubusercontent.com/NandiniJha07/NandiniJha07/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> </p>
 
 ## 📊 GitHub Stats
 
